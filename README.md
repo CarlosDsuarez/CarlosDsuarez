@@ -7,6 +7,7 @@
   <br/>
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -50,6 +51,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [Neural Heston Calibration](https://github.com/CarlosDsuarez/neural-heston-calibration) | Heston model calibration — analytic-gradient COS + Levenberg-Marquardt baseline vs. a neural surrogate and warm-start, with an honest benchmark on SPX options | C++20, Python |
 | [HFT-V1 Showcase](https://github.com/CarlosDsuarez/hft-v1-showcase) | Intraday 1-minute-bar trading engine (backtest / sim / paper on a single decision path) plus a daily portfolio optimizer. Offline synthetic demo | Python, Docker, Make |
 | [AI Hedge Fund Showcase](https://github.com/CarlosDsuarez/ai-hedge-fund-showcase) | Daily multi-agent equity pipeline — LLM research + quant signals + risk gates + paper broker | Python, LLM agents |
 | [Market Terminal Showcase](https://github.com/CarlosDsuarez/market-terminal-showcase) | Keyboard-driven, terminal-style market workstation with simulation clock, paper portfolio and execution algos | TypeScript, React, Python |
