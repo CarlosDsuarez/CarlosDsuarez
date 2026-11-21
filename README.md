@@ -77,7 +77,7 @@
 | **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.0% of 2026 |
 | **Concept of the Day** | **Hierarchical Risk Parity** — clusters assets by correlation and allocates risk top-down, avoiding the covariance inversion that makes Markowitz unstable. |
 | **Today's Tip** | Include transaction costs and slippage before you trust any backtest. |
-| **Last Updated** | November 21, 2026 16:50 UTC |
+| **Last Updated** | November 21, 2026 16:53 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
