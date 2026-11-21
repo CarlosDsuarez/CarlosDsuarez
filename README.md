@@ -1,7 +1,5 @@
 <div align="center">
 
-  <h2>Hi, I'm Carlos Suárez 👋</h2>
-
   <p><b>Economics student (Finance track)</b> · Quantitative finance · Portfolio optimization · Volatility modeling · AI for markets</p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-david-suarez-data-corporate-finance-bi-business/)
