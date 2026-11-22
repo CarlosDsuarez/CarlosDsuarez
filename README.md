@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://github.com/CarlosDsuarez">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosDsuarez&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>&nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDsuarez&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDsuarez&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&cache_seconds=172800" alt="Top Languages"/>
   </a>
 </p>
 
