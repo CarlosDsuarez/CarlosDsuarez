@@ -67,17 +67,17 @@
 
 <div align="center">
 
-> *"In the short run, the market is a voting machine but in the long run, it is a weighing machine."*
-> — **Benjamin Graham**
+> *"The four most dangerous words in investing are: 'this time it's different.'"*
+> — **Sir John Templeton**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.0% of 2026 |
-| **Concept of the Day** | **Hierarchical Risk Parity** — clusters assets by correlation and allocates risk top-down, avoiding the covariance inversion that makes Markowitz unstable. |
-| **Today's Tip** | Include transaction costs and slippage before you trust any backtest. |
-| **Last Updated** | November 21, 2026 16:53 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.2% of 2026 |
+| **Concept of the Day** | **Kelly Criterion** — the bet size that maximizes long-run log wealth; most practitioners use a fraction of it. |
+| **Today's Tip** | Beware look-ahead bias: only use data that was available at decision time. |
+| **Last Updated** | November 22, 2026 18:15 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
