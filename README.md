@@ -67,17 +67,17 @@
 
 <div align="center">
 
-> *"The four most dangerous words in investing are: 'this time it's different.'"*
-> — **Sir John Templeton**
+> *"All models are wrong, but some are useful."*
+> — **George E. P. Box**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.2% of 2026 |
-| **Concept of the Day** | **Kelly Criterion** — the bet size that maximizes long-run log wealth; most practitioners use a fraction of it. |
-| **Today's Tip** | Beware look-ahead bias: only use data that was available at decision time. |
-| **Last Updated** | November 22, 2026 18:15 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.6% of 2026 |
+| **Concept of the Day** | **Maximum Drawdown** — the largest peak-to-trough loss; the number investors actually feel. |
+| **Today's Tip** | Survivorship bias inflates returns. Include delisted assets. |
+| **Last Updated** | November 23, 2026 22:27 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
