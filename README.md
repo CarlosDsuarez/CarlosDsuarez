@@ -67,17 +67,17 @@
 
 <div align="center">
 
-> *"All models are wrong, but some are useful."*
-> — **George E. P. Box**
+> *"Diversification is the only free lunch in finance."*
+> — **Harry Markowitz (attributed)**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.6% of 2026 |
-| **Concept of the Day** | **Maximum Drawdown** — the largest peak-to-trough loss; the number investors actually feel. |
-| **Today's Tip** | Survivorship bias inflates returns. Include delisted assets. |
-| **Last Updated** | November 23, 2026 22:27 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.8% of 2026 |
+| **Concept of the Day** | **Beta** — sensitivity of an asset's returns to the market's returns. |
+| **Today's Tip** | Log returns add over time; simple returns add across assets. |
+| **Last Updated** | November 24, 2026 20:59 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
