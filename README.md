@@ -67,17 +67,17 @@
 
 <div align="center">
 
-> *"Diversification is the only free lunch in finance."*
-> — **Harry Markowitz (attributed)**
+> *"The market can remain irrational longer than you can remain solvent."*
+> — **John Maynard Keynes (attributed)**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.8% of 2026 |
-| **Concept of the Day** | **Beta** — sensitivity of an asset's returns to the market's returns. |
-| **Today's Tip** | Log returns add over time; simple returns add across assets. |
-| **Last Updated** | November 24, 2026 20:59 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 90.1% of 2026 |
+| **Concept of the Day** | **Modified Duration** — approximate % price change of a bond for a 1% change in yield. |
+| **Today's Tip** | Annualize volatility with sqrt(252) for daily data, not 252. |
+| **Last Updated** | November 25, 2026 20:23 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
