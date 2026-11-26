@@ -67,17 +67,17 @@
 
 <div align="center">
 
-> *"The market can remain irrational longer than you can remain solvent."*
-> — **John Maynard Keynes (attributed)**
+> *"In God we trust. All others must bring data."*
+> — **W. Edwards Deming (attributed)**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 90.1% of 2026 |
-| **Concept of the Day** | **Modified Duration** — approximate % price change of a bond for a 1% change in yield. |
-| **Today's Tip** | Annualize volatility with sqrt(252) for daily data, not 252. |
-| **Last Updated** | November 25, 2026 20:23 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 90.4% of 2026 |
+| **Concept of the Day** | **Convexity** — the curvature of the price-yield relationship; second-order correction to duration. |
+| **Today's Tip** | Shrink your covariance matrix before optimizing. |
+| **Last Updated** | November 26, 2026 19:59 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
