@@ -67,17 +67,17 @@
 
 <div align="center">
 
-> *"In God we trust. All others must bring data."*
-> — **W. Edwards Deming (attributed)**
+> *"Know what you own, and know why you own it."*
+> — **Peter Lynch**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 90.4% of 2026 |
-| **Concept of the Day** | **Convexity** — the curvature of the price-yield relationship; second-order correction to duration. |
-| **Today's Tip** | Shrink your covariance matrix before optimizing. |
-| **Last Updated** | November 26, 2026 19:59 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 90.6% of 2026 |
+| **Concept of the Day** | **Nelson-Siegel-Svensson** — a parametric yield-curve model with level, slope and two curvature factors. |
+| **Today's Tip** | If a strategy only works with one parameter set, it doesn't work. |
+| **Last Updated** | November 27, 2026 19:49 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
